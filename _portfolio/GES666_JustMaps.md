@@ -6,9 +6,9 @@ collection: portfolio
 
 In the Just Maps course, taken during my time as an undergrad at UMBC, students were taught skills in making maps as visually effective as possible, through skills such as the minimization of ink and succinct text.
 
-In this map, submitted as part of my final project for the course, this map of Brooklyn shows clustering of black NYC residents in Brooklyn.
+In this map, submitted as part of my final project for the course, this map of NYC shows clustering of black NYC residents in Brooklyn, Southeast Queens, and the Bronx into Northern Manhattan.
 
-![Badassness scales](/images/Black_Densities_Layout.png "Brooklyn Black Residency Density")
+![NYC Black Resident Density](/images/Black_Densities_Layout.png "Brooklyn Black Residency Density")
 
 <br/><img src='/images/Black_Densities_Layout.png'>
 
