@@ -1,6 +1,6 @@
 ---
 title: "GES 666: Just Maps Final Project Map"
-excerpt: "One of the final products for the Just Maps undergrad course at UMBC <br/><img src='/images/Black Density Layout.png'>"
+excerpt: "One of the final products for the Just Maps undergrad course at UMBC <br/><img src='/images/Black_Densities_Layout.png'>"
 collection: portfolio
 ---
 
@@ -8,8 +8,8 @@ In the Just Maps course, taken during my time as an undergrad at UMBC, students 
 
 In this map, submitted as part of my final project for the course, this map of Brooklyn shows clustering of black NYC residents in Brooklyn.
 
-![Badassness scales](/images/Black Density Layout.png "Brooklyn Black Residency Density")
+![Badassness scales](/images/Black_Densities_Layout.png "Brooklyn Black Residency Density")
 
-<br/><img src='/images/Black Density Layout.png'>
+<br/><img src='/images/Black_Densities_Layout.png'>
 
 
