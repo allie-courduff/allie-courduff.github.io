@@ -10,6 +10,4 @@ In this map, submitted as part of my final project for the course, this map of N
 
 ![NYC Black Resident Density](/images/Black_Densities_Layout.png)
 
-<br/><img src='/images/Black_Densities_Layout.png'>
-
 
