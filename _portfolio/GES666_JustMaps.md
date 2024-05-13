@@ -1,6 +1,6 @@
 ---
 title: "GES 666: Just Maps Final Project Map"
-excerpt: "One of the final products for the Just Maps undergrad course at UMBC <br/><img src='/images/Black_Densities_Layout.png'>"
+excerpt: "One of the final products for the Just Maps undergrad course at UMBC <br/><img src='/images/Black_Densities_Crop.png'>"
 collection: portfolio
 ---
 
