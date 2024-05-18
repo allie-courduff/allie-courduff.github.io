@@ -1,1 +1,12 @@
+---
+title: "GES 687: Final Project"
+excerpt: "The final product of GES687 melding various advanced GIS techniques <br/><img src='/images/687Lab05_Crop.png'>"
+collection: portfolio
+---
 
+The primary goal of the advanced GIS course for both undergrads and graduate students at UMBC is for students to improve/hone their skills in R code manipulation as in map-making programs, such as QGIS and Geoda. Over the course of the semester, students refine these skills with the end-goal of ease in making professional looking maps and code.
+
+Lab 5, occurring in the middle of the semester, worked primarily to build our ability to produce readable maps in RStudio, without having to even work in a mapping program like QGIS or ArcGIS Pro. One of the maps I produced is included below, with the code used to produce it.
+
+![Assateague Island Campsite and Shoreline Map](/images/687Lab05_Map.png)
+![Assateague Island Campsite and Shoreline Map R Code Chunk](/images/687Lab05_Code.png)
