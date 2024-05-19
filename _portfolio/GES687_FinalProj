@@ -10,7 +10,7 @@ While Lab 05 - given an earlier page in this portfolio - occured in the middle o
 
 My final project looked at Toxic Inventory Release data from the EPA and county-measured median household income counts, both for Maryland in 2022. Before even performing any form of spatial analysis on the two variables, looking at the distribution of the TRI points when inputted into QGIS, if the national highway system (maryland.gov) is overlaid, you can see an overlap.
 
-
+![Toxic Releases and National Highway System](/images/TRI and Highways.png)
 
 This shows that TRI releases are aggregated typically around highways, likely due to industry and other releasing sites being placed close to major transportation routes for commuting employees. But what of a relationship between the TRI data and median household income. My expectation was that there would be a higher TRI count in counties with lower household income, as polluting industries are often times moved to communities with the least economic and political power to speak against its placement.
 
